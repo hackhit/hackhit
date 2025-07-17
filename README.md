@@ -43,8 +43,8 @@
 
 <div align="center">
   <a href="https://github.com/hackhit">
-    <img height="180em" src="https://github-readme-stats-git-master-hackhit.vercel.app/api?username=hackhit&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-git-master-hackhit.vercel.app/api/top-langs/?username=hackhit&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+    <img height="180em" src="https://pub-09b066eba88d43e9ba69c5d6706146d6.r2.dev/Foto_Carnet.png"/>
+    <img height="180em" src="https://pub-09b066eba88d43e9ba69c5d6706146d6.r2.dev/1623619874Venezuela-peeling-sticker.svg"/>
   </a>
 </div>
 
@@ -54,8 +54,9 @@
 
 - **Automatización Empresarial**: Plataformas n8n para PyMEs (400+ flujos implementados)
 - **MarketPredict AI**: Sistema de predicción de mercados con LLMs personalizados
-- **SvelteCommerce**: Framework e-commerce con SvelteKit y pagos cuánticos
+- **SvelteCommerce**: Framework e-commerce con SvelteKit y desarrollos a la medida
 - **NextAI Labs**: Plantillas para integración de IA en aplicaciones Next.js
+- **Devs**: Desarrollo en aplicaciones Next.js - Venezuela / Mundo 🌐
 
 ---
 
@@ -64,7 +65,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Hernández-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/invhck/)
 [![Telegram](https://img.shields.io/badge/Telegram-@hackhitt-26A5E4?style=flat&logo=telegram)](https://t.me/hackhitt)
 [![Email](https://img.shields.io/badge/Email-inversioneshck%40gmail.com-D14836?style=flat&logo=gmail)](mailto:inversioneshck@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Hackhit.solutions-4A154B?style=flat)](https://hackhit.solutions)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Hackhit.info-4A154B?style=flat)](https://www.hackhit.info)
 
 📞 **WhatsApp/Telegram**: +58 414 4446088
 
