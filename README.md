@@ -16,9 +16,9 @@
 
 > *"Transformando ideas disruptivas en soluciones escalables con tecnología de vanguardia"*
 
-🎯 **Ingeniero de Software Senior** especializado en **IA aplicada** y **automatización empresarial**
+🎯 **Integrador de Software Senior** especializado en **IA aplicada** y **automatización empresarial**
 
-🌟 **+8 años** creando ecosistemas tecnológicos para PyMEs y empresas Fortune 500
+🌟 **+16 años** creando ecosistemas tecnológicos para PyMEs y empresas Fortune 500
 
 🚀 **Líder técnico** en implementación de LLMs, arquitecturas MCP y sistemas autónomos
 
