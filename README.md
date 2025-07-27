@@ -53,35 +53,116 @@ Impacto Reciente:
 ### 🤖 **Inteligencia Artificial & Machine Learning**
 ![Python](https://img.shields.io/badge/Python-3.12+-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FF8C00?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-121212?style=for-the-badge&logo=deepseek&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-FF6B35?style=for-the-badge&logo=ollama&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-4B8BFF?style=for-the-badge&logo=meta&logoColor=white)
 
 ### ☁️ **Cloud & DevOps**
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ### 🌐 **Full Stack Development**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 
 ### 🔄 **Automatización & Integration**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
+![Argo Workflows](https://img.shields.io/badge/Argo-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Make](https://img.shields.io/badge/Make-FF6B00?style=for-the-badge&logo=make&logoColor=white)
 
 ### 🗄️ **Databases & Storage**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-000000?style=for-the-badge&logo=neon&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+
+### 💻 **Sistemas Operativos**
+#### 🪟 **Windows Desktop**
+![Windows XP](https://img.shields.io/badge/Windows_XP-00ADFF?style=for-the-badge&logo=windows&logoColor=white)
+![Windows 7](https://img.shields.io/badge/Windows_7-00ADFF?style=for-the-badge&logo=windows&logoColor=white)
+![Windows 10](https://img.shields.io/badge/Windows_10-00ADFF?style=for-the-badge&logo=windows&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows_11-00ADFF?style=for-the-badge&logo=windows&logoColor=white)
+
+#### 🏢 **Windows Server**
+![Windows Server 2012](https://img.shields.io/badge/Windows_Server_2012-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Server 2016](https://img.shields.io/badge/Windows_Server_2016-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Server 2019](https://img.shields.io/badge/Windows_Server_2019-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Server 2022](https://img.shields.io/badge/Windows_Server_2022-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+#### 🐧 **Linux Server**
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![AlmaLinux](https://img.shields.io/badge/AlmaLinux-0075C7?style=for-the-badge&logo=almalinux&logoColor=white)
+![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
+
+#### 🍎 **macOS**
+![macOS X](https://img.shields.io/badge/macOS_X-000000?style=for-the-badge&logo=apple&logoColor=white)
+![macOS Sierra](https://img.shields.io/badge/macOS_Sierra-000000?style=for-the-badge&logo=apple&logoColor=white)
+![macOS High Sierra](https://img.shields.io/badge/macOS_High_Sierra-000000?style=for-the-badge&logo=apple&logoColor=white)
+![macOS Mojave](https://img.shields.io/badge/macOS_Mojave-000000?style=for-the-badge&logo=apple&logoColor=white)
+![macOS Catalina](https://img.shields.io/badge/macOS_Catalina-000000?style=for-the-badge&logo=apple&logoColor=white)
+![macOS Big Sur](https://img.shields.io/badge/macOS_Big_Sur-000000?style=for-the-badge&logo=apple&logoColor=white)
+![macOS Monterey](https://img.shields.io/badge/macOS_Monterey-000000?style=for-the-badge&logo=apple&logoColor=white)
+![macOS Ventura](https://img.shields.io/badge/macOS_Ventura-000000?style=for-the-badge&logo=apple&logoColor=white)
+![macOS Sonoma](https://img.shields.io/badge/macOS_Sonoma-000000?style=for-the-badge&logo=apple&logoColor=white)
+![macOS Sequoia](https://img.shields.io/badge/macOS_Sequoia-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+#### 📱 **iOS**
+![iOS 14](https://img.shields.io/badge/iOS_14-000000?style=for-the-badge&logo=apple&logoColor=white)
+![iOS 15](https://img.shields.io/badge/iOS_15-000000?style=for-the-badge&logo=apple&logoColor=white)
+![iOS 16](https://img.shields.io/badge/iOS_16-000000?style=for-the-badge&logo=apple&logoColor=white)
+![iOS 17](https://img.shields.io/badge/iOS_17-000000?style=for-the-badge&logo=apple&logoColor=white)
+![iOS 18](https://img.shields.io/badge/iOS_18-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+#### 🤖 **Android**
+![Android 10](https://img.shields.io/badge/Android_10-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android 11](https://img.shields.io/badge/Android_11-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android 12](https://img.shields.io/badge/Android_12-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android 13](https://img.shields.io/badge/Android_13-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android 14](https://img.shields.io/badge/Android_14-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 
 </div>
 
