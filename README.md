@@ -200,16 +200,16 @@ Impacto Reciente:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hackhit&repo=logias&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
 </a>
 
-<a href="https://github.com/hackhit/coesapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hackhit&repo=coesapp&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
-</a>
-
 <a href="https://github.com/hackhit/bancos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hackhit&repo=bancos&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
 </a>
 
-<a href="https://github.com/hackhit/my-telegram-assistant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hackhit&repo=my-telegram-assistant&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
+<a href="https://github.com/hackhit/venezuela-territorial-2025">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hackhit&repo=venezuela-territorial-2025&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
+</a>
+
+<a href="https://github.com/hackhit/prompts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hackhit&repo=prompts&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
 </a>
 
 </div>
