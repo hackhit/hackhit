@@ -233,6 +233,13 @@ Impacto Reciente:
   - n8n + Custom integrations
   - 95% reducción en tiempo manual
 
+- **a2, Hybrid POS Venezuela** 🇻🇪
+  - 50+ integraciones empresariales (2010-2025)
+  - 200+ estaciones de trabajo
+  - Sistema locales, cloud/local
+  - 15000+ transacciones diarias procesadas
+  - Adaptación a condiciones económicas locales
+
 </td>
 <td width="50%">
 
@@ -246,6 +253,12 @@ Impacto Reciente:
   - Templates para IA en Next.js
   - OpenAI + LangChain integration
   - 1000+ developers usando
+
+- **Venezuela Territorial DB** 🗺️
+  - Base de datos territorial completa
+  - API RESTful + GraphQL
+  - 300+ municipios mapeados
+  - Datos históricos 2010-2025
 
 </td>
 </tr>
