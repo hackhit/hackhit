@@ -266,7 +266,7 @@ Impacto Reciente:
 
 ---
 
-## 🎖️ **Achievements & Recognition**
+## 🎖️ **Logros y reconocimientos**
 
 <div align="center">
 
@@ -380,13 +380,13 @@ Impacto Reciente:
 
 ---
 
-## 📊 **Stack Evolution Timeline**
+## 📊 **Cronología de la evolución de Stack**
 
 <div align="center">
 
 ```mermaid
 gantt
-    title Miguel's Tech Evolution
+    title Evolucion Tecnologica - Miguel Hernandez -Hackhit
     dateFormat  YYYY-MM-DD
     section Frontend
     HTML/CSS/JS           :done, frontend1, 1999-01-01, 2020-01-01
@@ -415,7 +415,7 @@ gantt
     Cloud Native          :active, devops7, 2023-01-01, 2025-12-31
     Platform Engineering  :active, devops8, 2023-06-01, 2025-12-31
 
-    section Security
+    section Seguridad Informatica
     Herramientas basicas de seguridad  :done, sec1, 2000-01-01, 2006-01-01
     BackTrack             :done, sec2, 2006-01-01, 2011-01-01
     Kali Linux            :done, sec3, 2012-01-01, 2025-12-31
