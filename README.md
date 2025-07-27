@@ -4,7 +4,7 @@
   
 ![Banner](https://pub-09b066eba88d43e9ba69c5d6706146d6.r2.dev/Web%20Developer%20Twitter%20Header.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=🚀+Ingeniero+de+Software;💡+Especialista+en+IA+y+Automatización;🌟+Innovador+en+Tecnologías+Emergentes;🔧+Arquitecto+de+Soluciones+Escalables)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=🚀+DevOps+e+Integrador+de+Tecnologias;💡+Especialista+en+IA+y+Automatización;🌟+Innovador+en+Tecnologías+Emergentes;🔧+Arquitecto+de+Soluciones+Escalables)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,13 +12,13 @@
 
 <img align='right' src="https://pub-09b066eba88d43e9ba69c5d6706146d6.r2.dev/Avatar.png" width="280">
 
-## 👋 **¡Hola! Soy Miguel Hernández**
+## 👋 **¡Hola! Soy Miguel Hernández - Hackhit**
 
 > *"Transformando ideas disruptivas en soluciones escalables con tecnología de vanguardia"*
 
 🎯 **Integrador de Software Senior** especializado en **IA aplicada** y **automatización empresarial**
 
-🌟 **+16 años** creando ecosistemas tecnológicos para PyMEs y empresas Fortune 500
+🌟 **+16 años** creando ecosistemas tecnológicos para PyMEs y empresas en general
 
 🚀 **Líder técnico** en implementación de LLMs, arquitecturas MCP y sistemas autónomos
 
@@ -32,14 +32,16 @@
 Focus Principal:
   🤖 Inteligencia Artificial Aplicada
   ⚡ Automatización de Procesos Empresariales
+  ⚡ Implementacion de sistemas de facturacion Hybrid POS (Venezuela)
+  ⚡ Implementacion de sistemas de facturacion a2 (Venezuela)
   🏗️ Arquitecturas Escalables en la Nube
   🔮 Quantum Machine Learning (Investigación)
 
 Impacto Reciente:
   📊 400+ flujos de automatización implementados
   🎯 95% reducción en tiempos de proceso
-  💰 $2M+ ahorrados en costos operacionales
-  🌟 50+ empresas transformadas digitalmente
+  💰 500K$+ ahorrados en costos operacionales
+  🌟 50+ empresas transformadas digitalmente en Venezuela y latinoamerica
 ```
 
 ---
@@ -220,9 +222,9 @@ Impacto Reciente:
 <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="350">
 
 **🌎 Países atendidos:** Venezuela, Colombia, México, España, USA  
-**🏢 Sectores impactados:** FinTech, E-commerce, HealthTech, EduTech  
+**🏢 Sectores impactados:** FinTech, E-commerce, HealthTech, EduTech, Integracion de sistemas de Facturacion  
 **👥 Desarrolladores mentoreados:** 200+  
-**📚 Artículos técnicos:** 50+ publicaciones  
+**📚 Artículos técnicos:** 30+ publicaciones  
 
 </div>
 
@@ -250,8 +252,10 @@ Impacto Reciente:
 <summary><b>🎓 Educación & Certificaciones</b></summary>
 
 ### 🏛️ **Formación Académica**
-- **Ingeniería en Sistemas** - Universidad Central de Venezuela
+- **Ingenieria** - Universidad de Carabobo
+- **Economia** - Universidad de Carabobo
 - **Especialización en IA** - Coursera + Stanford Online
+- **Programa de Formacion IBM Venezuela** - Programa de Formacion IBM Internacional
 - **Cloud Architecture** - AWS + Google Cloud Professional
 
 ### 🏅 **Certificaciones Destacadas**
@@ -272,8 +276,8 @@ Impacto Reciente:
 
 | 🎯 Servicio | 📝 Descripción | ⏱️ Timeline |
 |---|---|---|
-| **🤖 AI Implementation** | Integración de IA en productos existentes | 2-6 semanas |
-| **⚡ Process Automation** | Automatización completa de workflows | 1-4 semanas |
+| **🤖 AI Implementacion** | Integración de IA en productos existentes | 2-3 semanas |
+| **⚡ Proceso de Automatizacion** | Automatización completa de workflows | 1-4 semanas |
 | **🏗️ Architecture Review** | Auditoría y optimización de arquitecturas | 1-2 semanas |
 | **🎓 Technical Mentoring** | Mentoría para equipos de desarrollo | Ongoing |
 | **🚀 MVP Development** | Desarrollo rápido de prototipos | 2-8 semanas |
@@ -291,19 +295,41 @@ gantt
     title Miguel's Tech Evolution
     dateFormat  YYYY-MM-DD
     section Frontend
-    HTML/CSS/JS    :done, frontend1, 2018-01-01, 2020-01-01
-    React/Vue      :done, frontend2, 2020-01-01, 2022-01-01
-    Next.js/Svelte :active, frontend3, 2022-01-01, 2025-12-31
+    HTML/CSS/JS           :done, frontend1, 1999-01-01, 2020-01-01
+    jQuery/AJAX           :done, frontend2, 2006-08-01, 2015-01-01
+    Backbone/Angular 1.x  :done, frontend3, 2010-10-01, 2016-01-01
+    React/Vue             :done, frontend4, 2013-05-01, 2022-01-01
+    Angular 2+            :done, frontend5, 2016-09-01, 2023-01-01
+    Next.js/Nuxt.js       :active, frontend6, 2016-10-01, 2025-12-31
+    Svelte/SvelteKit      :active, frontend7, 2019-11-01, 2025-12-31
     
-    section Backend
-    PHP/Laravel    :done, backend1, 2018-01-01, 2020-01-01
-    Node.js/Express:done, backend2, 2020-01-01, 2023-01-01
-    AI/ML/Python   :active, backend3, 2023-01-01, 2025-12-31
+    section PHP/Laravel           :done, backend1, 2018-01-01, 2020-01-01
+    Node.js/Express       :done, backend2, 2020-01-01, 2023-01-01
+    Python/Django/Flask   :done, backend3, 2015-01-01, 2022-01-01
+    Microservices/Docker  :done, backend4, 2018-01-01, 2023-01-01
+    Go/Rust               :done, backend5, 2020-01-01, 2024-01-01
+    AI/ML/Python          :active, backend6, 2023-01-01, 2025-12-31
+    GraphQL/gRPC          :active, backend7, 2022-01-01, 2025-12-31
     
     section DevOps
-    Basic Deploy   :done, devops1, 2019-01-01, 2021-01-01
-    Docker/K8s     :done, devops2, 2021-01-01, 2023-01-01
-    Cloud Native   :active, devops3, 2023-01-01, 2025-12-31
+    Basic Deploy          :done, devops1, 2019-01-01, 2021-01-01
+    CI/CD Pipelines       :done, devops2, 2018-01-01, 2021-01-01
+    Docker/Containerization:done, devops3, 2015-01-01, 2022-01-01
+    Kubernetes/Orchestration:done, devops4, 2018-01-01, 2023-01-01
+    Infrastructure as Code:done, devops5, 2017-01-01, 2022-01-01
+    GitOps/Observability  :done, devops6, 2020-01-01, 2023-01-01
+    Cloud Native          :active, devops7, 2023-01-01, 2025-12-31
+    Platform Engineering  :active, devops8, 2023-06-01, 2025-12-31
+
+    section Security
+    Herramientas basicas de seguridad  :done, sec1, 2000-01-01, 2006-01-01
+    BackTrack             :done, sec2, 2006-01-01, 2011-01-01
+    Kali Linux            :done, sec3, 2012-01-01, 2025-12-31
+    Security Scanners     :done, sec4, 2015-01-01, 2022-01-01
+    DevSecOps Integration :active, sec5, 2020-01-01, 2025-12-31
+
+
+
 ```
 
 </div>
